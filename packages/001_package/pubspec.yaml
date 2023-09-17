@@ -1,0 +1,9 @@
+name:  my_app
+
+environment:
+  sdk: '^3.1.0'
+
+dependencies:
+  js: ^0.6.0
+  intl: ^0.17.0
+  vector_math: ^2.1.4
